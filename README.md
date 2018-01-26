@@ -47,7 +47,7 @@ https://www.usacycling.org/events
 ### Triathlon/Duathlon, Time Trial
 * http://www.midamericatimetrialseries.com/
 * https://www.trifind.com/il.html
-
+* [Screw City Duathlong](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
 ### Touring/Bikepacking
 * Routes
   * http://www.bikepacking.com/routes/tour-de-chequamegon-wisconsin/
