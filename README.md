@@ -37,6 +37,8 @@
 
 ### Gravel
 * [Ten Thousand, Freeport,IL - 6/27](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/5/27/ten-thousand)
+* Dust at Dusk (9/?)
+* [Night Bison, Dekalb ??](http://www.granfondoguide.com/Events/Index/5436/night-bison-gravel-nocturne)
 * Search Sites
     * http://ridinggravel.com/events/
 
@@ -44,9 +46,10 @@
 * [Chi Cross Cup](http://chicrosscup.com/)
 
 ### Triathlon/Duathlon, Time Trial
-* [Screw City Duathlon](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
-* Search Sites
-    * http://www.midamericatimetrialseries.com/
+* [Screw City Duathlon by RRM](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
+* [Mid America Time Trial Series](http://www.midamericatimetrialseries.com/)
+    * [Cherry Valley Time Trial by RRM]
+* Search Sites    
     * https://www.trifind.com/il.html
 ### Fixie/Singlespeed
 * [Rockford Downtown Alleycat](https://www.flybynightrockford.com/)
@@ -64,6 +67,7 @@
 * [Shosies](https://shosiescyclery.com/)
 * [Rockford Bicycle Company](https://rockfordbikes.com/)
 * [Freeport Bicycles](http://www.freeportbicycles.com/): [Events](http://www.freeportbicycles.com/freeport-bicycle-company-events)
+* [Noth Central Cyclery](https://www.northcentralcyclery.com/): [Events](https://www.northcentralcyclery.com/articles/rides-and-events-pg37.htm)
 
 ### Other Useful Stuff
 * [Strava](https://www.Strava.com): [Area Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
