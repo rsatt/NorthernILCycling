@@ -1,18 +1,31 @@
 # NorthernILCycling
 Northern IL Cycling
-# Midwest Cycling
-Cycling Event in the Midwest US
 
 ## 2018
 
 ### Groups
-* http://teamfurbandit.org/
-* http://rockrivermultisport.com/
+* Team Fur Bandit
+  * http://teamfurbandit.org/
+
+* Rock River Multisport 
+  * http://rockrivermultisport.com/
+  * https://www.strava.com/clubs/rock-river-multisport
+  * Rides:(private?)
+* Blackhawk Bicyle Club
+  * http://blackhawkbicycleclub.org/
+  * Rides: http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145223
+* Stateline Velo
+  * https://www.strava.com/clubs/statelinevelo
+  * Rides: https://docs.google.com/spreadsheets/d/1f2_TuvNMMXEgF7hJOttXkxBkI6hE3lqPoBQy-rwfwrg/edit#gid=0
+* Ride Illinois
+  * rideillinois.org
+  * https://www.strava.com/clubs/rideillinois
 
 ### Road/General
 https://www.bikereg.com/events/Midwest/
 https://www.usacycling.org/events
-
+* Rides
+  * http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40
 * Gran Fondo
    * Freeport, IL - http://www.tourforcancer.org/
 * Criterium, Omnium
@@ -24,7 +37,9 @@ https://www.usacycling.org/events
 * https://www.singletracks.com/mountain-bike/events/events.php
 
 ### Gravel
+
 * http://ridinggravel.com/events/
+* [Ten Thousand - 5/27](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/5/27/ten-thousand)
 
 ### Cyclocross
 * http://chicrosscup.com/
@@ -39,3 +54,15 @@ https://www.usacycling.org/events
 
 ### Randonneurs
 * http://www.greatlakesrando.org/our-calendar/current-events
+
+### Businesses
+* Kegels
+* 
+* [Freeport Bicycles](http://www.freeportbicycles.com/)
+  * Events: http://www.freeportbicycles.com/freeport-bicycle-company-events
+
+### Useful Riding Sites
+* Strava.com
+* [Strava Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
+* mapmyride.com
+* ridewithgps.com 
