@@ -22,8 +22,6 @@ Northern IL Cycling
   * https://www.strava.com/clubs/rideillinois
 
 ### Road/General
-https://www.bikereg.com/events/Midwest/
-https://www.usacycling.org/events
 * Rides
   * http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40
 * Gran Fondo
@@ -47,7 +45,7 @@ https://www.usacycling.org/events
 ### Triathlon/Duathlon, Time Trial
 * http://www.midamericatimetrialseries.com/
 * https://www.trifind.com/il.html
-* [Screw City Duathlong](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
+* [Screw City Duathlon](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
 ### Touring/Bikepacking
 * Routes
   * http://www.bikepacking.com/routes/tour-de-chequamegon-wisconsin/
@@ -61,8 +59,14 @@ https://www.usacycling.org/events
 * [Freeport Bicycles](http://www.freeportbicycles.com/)
   * Events: http://www.freeportbicycles.com/freeport-bicycle-company-events
 
-### Useful Riding Sites
-* Strava.com
+### Useful Cycling, Gear, Fitness Sites
+* https://www.Strava.com
 * [Strava Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
-* mapmyride.com
-* ridewithgps.com 
+* https://www.bikereg.com/events/Midwest/
+* https://www.usacycling.org/events
+* https://www.active.com/cycling
+* https://runsignup.com/Races
+* https://www.mapmyride.com
+* https://www.ridewithgps.com 
+* https://www.dcrainmaker.com/
+* http://www.myfitnesspal.com/
