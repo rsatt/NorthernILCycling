@@ -7,6 +7,7 @@
 * [Rock River Multisport](http://rockrivermultisport.com/): [Strava](https://www.strava.com/clubs/rock-river-multisport), Rides
 * [Blackhawk Bicycle Club](http://blackhawkbicycleclub.org/): Strava, [Rides](http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145223)
 * Stateline Velo: [Strava](https://www.strava.com/clubs/statelinevelo), [Rides](https://docs.google.com/spreadsheets/d/1f2_TuvNMMXEgF7hJOttXkxBkI6hE3lqPoBQy-rwfwrg/edit#gid=0)
+* [Stateline Spinners](http://www.statelinespinners.com/)
 * [Fly By Night](https://www.flybynightrockford.com/)
 * [Ride Illinois](https://www.rideillinois.org): [Strava](https://www.strava.com/clubs/rideillinois)
 
