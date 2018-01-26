@@ -14,6 +14,7 @@
 ### Road/General
 * Rides
   * [Frostbite 40 - 2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
+  * [River District 12](http://www.riverdistrict12.com/)
 * Gran Fondo
    * [Tour For Cancer - Freeport, IL](http://www.tourforcancer.org/)
    * [Wisconsin Gran Fondo](https://www.wisconsingranfondo.com)
