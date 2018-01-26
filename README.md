@@ -26,6 +26,7 @@
     * https://www.bikereg.com/events/Midwest/
     * https://www.usacycling.org/events
     * https://www.active.com/cycling
+    * http://www.mikebentley.com/bike/mwrides.htm
     
 ### Moutain 
 * http://worscup.com/
