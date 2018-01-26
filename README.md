@@ -1,5 +1,4 @@
 # NorthernILCycling
-Northern IL Cycling
 
 ## 2018
 
@@ -50,7 +49,7 @@ Northern IL Cycling
 * Routes
   * [Tour de Chequamegon, WI](http://www.bikepacking.com/routes/tour-de-chequamegon-wisconsin/)
 
-### Randonneurs
+### Randonneuring
 * [Ride Across Wisconsin](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
 * [Great Lakes Rando](http://www.greatlakesrando.org/our-calendar/current-events)
 
