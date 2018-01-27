@@ -38,7 +38,6 @@
 ### Gravel
 * [Ten Thousand, Freeport,IL - 6/27](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/5/27/ten-thousand)
 * Dust at Dusk (9/?)
-* [Night Bison, Dekalb ??](http://www.granfondoguide.com/Events/Index/5436/night-bison-gravel-nocturne)
 * Search Sites
     * http://ridinggravel.com/events/
 
