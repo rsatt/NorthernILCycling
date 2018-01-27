@@ -61,8 +61,10 @@
 ### Fixie/Singlespeed
 * [Rockford Downtown Alleycat](https://www.flybynightrockford.com/)
 * [Fyxation](http://www.fyxationopen.com/)
+
 ### Touring/Bikepacking
 * [Ragbrai](https://ragbrai.com/)
+* [Bike Wisconsin](http://www.bikewisconsin.com/index.html)
 * Routes
   * [Tour de Chequamegon, WI](http://www.bikepacking.com/routes/tour-de-chequamegon-wisconsin/)
 
