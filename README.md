@@ -76,7 +76,7 @@
 * [Rockford Bicycle Company](https://rockfordbikes.com/)
 * [Freeport Bicycles](http://www.freeportbicycles.com/): [Events](http://www.freeportbicycles.com/freeport-bicycle-company-events)
 * [NorthPointe Wellness](https://www.northpointewellness.org/services/special-events/)
-* [Rockford Ortho](http://www.orthoillinois.com/service/bike-right-cycling-clinic/)
+* [OrthoIllinois - Bike Fitting](http://www.orthoillinois.com/service/bike-right-cycling-clinic/)
 * [Noth Central Cyclery](https://www.northcentralcyclery.com/): [Events](https://www.northcentralcyclery.com/articles/rides-and-events-pg37.htm)
 
 ### Other Useful Stuff
