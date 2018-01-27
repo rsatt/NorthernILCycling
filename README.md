@@ -53,7 +53,7 @@
 * [Mid America Time Trial Series](http://www.midamericatimetrialseries.com/)
     * [Cherry Valley Time Trial by RRM]
 * Do the Kish by RRM?
-* (DuTriRun)(http://www.dutrirun.com)
+* [DuTriRun](http://www.dutrirun.com)
 * [Ironman Wisconsin](http://www.ironman.com/triathlon/events/americas/ironman/wisconsin.aspx)
 * Search Sites    
     * https://www.trifind.com/il.html
