@@ -87,6 +87,7 @@
 * https://www.dcrainmaker.com/
 * http://www.myfitnesspal.com/
 * https://www.runsignup.com/Races
+* https://thomaschampagne.github.io/stravistix/
 
 ### Misc
 * http://rockfordparkdistrict.org/silentsports
