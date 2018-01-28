@@ -1,5 +1,3 @@
-# NorthernILCycling
-
 ## 2018
 
 ### Groups
@@ -27,7 +25,7 @@
 * Criterium, Omnium
     * [Spring Super Criterium - South Beloit](http://burnhamracing.org/)
     * [Intelligentsia Cup](http://intelligentsiacup.com/)
-    * La Crosse, WI - https://www.lacrosseomnium.com/
+    * [La Crosse Omnium](https://www.lacrosseomnium.com/)
 
 * Search Sites
     * https://www.bikereg.com/events/Midwest/
@@ -38,14 +36,14 @@
 ### Moutain 
 *  [Wisconsin off road series](http://worscup.com/)
 * Search Sites
-    * https://www.singletracks.com/mountain-bike/events/events.php
-    * https://www.bikereg.com/events/MTB-Races/Midwest/
+    * [Single Tracks](https://www.singletracks.com/mountain-bike/events/events.php)
+    * [Bike Reg MTB Midwest](https://www.bikereg.com/events/MTB-Races/Midwest/)
 
 ### Gravel
 * [Ten Thousand, Freeport,IL - 6/27](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/5/27/ten-thousand)
 * Dust at Dusk (9/?)
 * Search Sites
-    * http://ridinggravel.com/events/
+    * [Riding Gravel](http://ridinggravel.com/events/)
 
 ### Cyclocross
 * [Chi Cross Cup](http://chicrosscup.com/)
@@ -54,12 +52,12 @@
 ### Triathlon/Duathlon, Time Trial
 * [Screw City Duathlon by RRM](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
 * [Mid America Time Trial Series](http://www.midamericatimetrialseries.com/)
-    * [Cherry Valley Time Trial by RRM]
+    * Cherry Valley Time Trial by RRM
 * Do the Kish by RRM?
 * [DuTriRun](http://www.dutrirun.com)
 * [Ironman Wisconsin](http://www.ironman.com/triathlon/events/americas/ironman/wisconsin.aspx)
 * Search Sites    
-    * https://www.trifind.com/il.html
+    * [TriFind](https://www.trifind.com/il.html)
     
 ### Fixie/Singlespeed
 * [Rockford Downtown Alleycat](https://www.flybynightrockford.com/)
@@ -75,6 +73,8 @@
 * [Ride Across Wisconsin](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
 * [Great Lakes Rando](http://www.greatlakesrando.org/our-calendar/current-events)
 
+### Routes
+
 ### Businesses
 * [Kegels](http://kegelsbikes.com/)
 * [Shosies](https://shosiescyclery.com/)
@@ -87,16 +87,15 @@
 
 ### Other Useful Stuff
 * [Strava](https://www.Strava.com): [Area Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
-* https://www.mapmyride.com
-* https://www.ridewithgps.com 
-* http://www.trainingpeaks.com
-* https://www.dcrainmaker.com/
-* http://www.myfitnesspal.com/
-* https://www.runsignup.com/Races
-* https://thomaschampagne.github.io/stravistix/
+* [Ride with GPS](https://www.ridewithgps.com )
+* [Training Peaks](http://www.trainingpeaks.com)
+* [DC Rainmaker Gear Review](https://www.dcrainmaker.com/)
+* [My Fitness Pal](http://www.myfitnesspal.com/)
+* [Run Signup](https://www.runsignup.com/Races)
+* [Map My Ride](https://www.mapmyride.com)
+* [Stravistix](https://thomaschampagne.github.io/stravistix/)
 
 ### Misc
-* http://rockfordparkdistrict.org/silentsports
-* http://oshkoshcyclingclub.com/
+* [Silent Sports Project](http://rockfordparkdistrict.org/silentsports)
 
 For any feedback, suggestions or to add more to the list please send an email to me@ryansatterlee.com
