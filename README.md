@@ -28,10 +28,10 @@
     * [La Crosse Omnium](https://www.lacrosseomnium.com/)
 
 * Search Sites
-    * https://www.bikereg.com/events/Midwest/
-    * https://www.usacycling.org/events
-    * https://www.active.com/cycling
-    * http://www.mikebentley.com/bike/mwrides.htm
+    * [Bike Reg Midwest](https://www.bikereg.com/events/Midwest/
+    * [USA Cycling](https://www.usacycling.org/events)
+    * [Active - Cycling](https://www.active.com/cycling)
+    * [Mike Bentley - Midwest](http://www.mikebentley.com/bike/mwrides.htm)
     
 ### Moutain 
 *  [Wisconsin off road series](http://worscup.com/)
@@ -74,6 +74,10 @@
 * [Great Lakes Rando](http://www.greatlakesrando.org/our-calendar/current-events)
 
 ### Routes
+* [Area Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
+* [Rock Cut](http://www.rockcutpark.com/park-guidelines/park-maps/)
+* [Gran Illinois Trail Map](http://janeaddamstrail.com/the-grand-illinois-trail-map)
+* [Pecatonica Prairie Trail](http://pecatonicaprairietrail.com/index.php?page=trail-maps)
 
 ### Businesses
 * [Kegels](http://kegelsbikes.com/)
@@ -86,7 +90,7 @@
 * [Noth Central Cyclery](https://www.northcentralcyclery.com/): [Events](https://www.northcentralcyclery.com/articles/rides-and-events-pg37.htm)
 
 ### Other Useful Stuff
-* [Strava](https://www.Strava.com): [Area Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
+* [Strava](https://www.Strava.com)
 * [Ride with GPS](https://www.ridewithgps.com )
 * [Training Peaks](http://www.trainingpeaks.com)
 * [DC Rainmaker Gear Review](https://www.dcrainmaker.com/)
