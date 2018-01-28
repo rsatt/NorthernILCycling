@@ -92,6 +92,7 @@
 ### Other Useful Stuff
 * [Strava](https://www.Strava.com)
 * [Ride with GPS](https://www.ridewithgps.com )
+* [The Rules](http://www.velominati.com/the-rules/)
 * [Training Peaks](http://www.trainingpeaks.com)
 * [DC Rainmaker Gear Review](https://www.dcrainmaker.com/)
 * [My Fitness Pal](http://www.myfitnesspal.com/)
