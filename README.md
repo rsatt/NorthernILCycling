@@ -13,14 +13,13 @@
 
 ## Road/General
 * Rides
-  * [Frostbite 40 - 2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
-  * [River District 12](http://www.riverdistrict12.com/)
-  * [Race the Lake](http://www.dutrirun.com/rtl)
-  * [Back Draft Bike Tour](http://www.backdraftbiketour.com/)
-  * [Tour De North End](http://tourdenorthend.com/)
-  * [Tour De Frost](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
+  * [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
+  * [River District 12 - Rockford](http://www.riverdistrict12.com/)
+  * [Race the Lake - Fond du Lac,WI](http://www.dutrirun.com/rtl)
+  * [Tour De North End - Rockford](http://tourdenorthend.com/)
+  * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
 * Gran Fondo
-   * [Tour For Cancer - Freeport, IL](http://www.tourforcancer.org/)
+   * [Tour For Cancer - Freeport](http://www.tourforcancer.org/)
    * [Wisconsin Gran Fondo](https://www.wisconsingranfondo.com)
 * Criterium, Omnium
     * [Spring Super Criterium - South Beloit](http://burnhamracing.org/)
