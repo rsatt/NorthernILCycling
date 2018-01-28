@@ -97,3 +97,5 @@
 ### Misc
 * http://rockfordparkdistrict.org/silentsports
 * http://oshkoshcyclingclub.com/
+
+For any feedback, suggestions or to add more to the list please send an email to me@ryansatterlee.com
