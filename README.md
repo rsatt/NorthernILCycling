@@ -1,6 +1,6 @@
-## 2018
+# 2018
 
-### Groups
+## Groups
 * [Team Fur Bandit](http://teamfurbandit.org/) : [Strava](https://www.strava.com/clubs/teamfurbandit)
 * [Rock River Multisport](http://rockrivermultisport.com/): [Strava](https://www.strava.com/clubs/rock-river-multisport), Rides
 * [Blackhawk Bicycle Club](http://blackhawkbicycleclub.org/): Strava, [Rides](http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145223)
@@ -11,7 +11,7 @@
 * [I Bike Rockford](http://ibikerockford.com/)
 * [Ride Illinois](https://www.rideillinois.org): [Strava](https://www.strava.com/clubs/rideillinois)
 
-### Road/General
+## Road/General
 * Rides
   * [Frostbite 40 - 2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
   * [River District 12](http://www.riverdistrict12.com/)
@@ -33,23 +33,23 @@
     * [Active - Cycling](https://www.active.com/cycling)
     * [Mike Bentley - Midwest](http://www.mikebentley.com/bike/mwrides.htm)
     
-### Moutain 
+## Moutain 
 *  [Wisconsin off road series](http://worscup.com/)
 * Search Sites
     * [Single Tracks](https://www.singletracks.com/mountain-bike/events/events.php)
     * [Bike Reg MTB Midwest](https://www.bikereg.com/events/MTB-Races/Midwest/)
 
-### Gravel
+## Gravel
 * [Ten Thousand, Freeport,IL - 6/27](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/5/27/ten-thousand)
 * Dust at Dusk (9/?)
 * Search Sites
     * [Riding Gravel](http://ridinggravel.com/events/)
 
-### Cyclocross
+## Cyclocross
 * [Chi Cross Cup](http://chicrosscup.com/)
 * Rockford Spring Cyclocross Series by RRM
 
-### Triathlon/Duathlon, Time Trial
+## Triathlon/Duathlon, Time Trial
 * [Screw City Duathlon by RRM](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
 * [Mid America Time Trial Series](http://www.midamericatimetrialseries.com/)
     * Cherry Valley Time Trial by RRM
@@ -59,27 +59,27 @@
 * Search Sites    
     * [TriFind](https://www.trifind.com/il.html)
     
-### Fixie/Singlespeed
+## Fixie/Singlespeed
 * [Rockford Downtown Alleycat](https://www.flybynightrockford.com/)
 * [Fyxation](http://www.fyxationopen.com/)
 
-### Touring/Bikepacking
+## Touring/Bikepacking
 * [Ragbrai](https://ragbrai.com/)
 * [Bike Wisconsin](http://www.bikewisconsin.com/index.html)
 * Routes
   * [Tour de Chequamegon, WI](http://www.bikepacking.com/routes/tour-de-chequamegon-wisconsin/)
 
-### Randonneuring
+## Randonneuring
 * [Ride Across Wisconsin](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
 * [Great Lakes Rando](http://www.greatlakesrando.org/our-calendar/current-events)
 
-### Routes
+## Routes
 * [Area Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
 * [Rock Cut](http://www.rockcutpark.com/park-guidelines/park-maps/)
 * [Gran Illinois Trail Map](http://janeaddamstrail.com/the-grand-illinois-trail-map)
 * [Pecatonica Prairie Trail](http://pecatonicaprairietrail.com/index.php?page=trail-maps)
 
-### Businesses
+## Businesses
 * [Kegels](http://kegelsbikes.com/)
 * [Shosies](https://shosiescyclery.com/)
 * [Rockford Bicycle Company](https://rockfordbikes.com/)
@@ -89,7 +89,7 @@
 * [MSN Pro Coaching](http://msnprocoaching.com/)
 * [Noth Central Cyclery](https://www.northcentralcyclery.com/): [Events](https://www.northcentralcyclery.com/articles/rides-and-events-pg37.htm)
 
-### Other Useful Stuff
+## Other Useful Stuff
 * [Strava](https://www.Strava.com)
 * [Ride with GPS](https://www.ridewithgps.com )
 * [The Rules](http://www.velominati.com/the-rules/)
@@ -100,7 +100,7 @@
 * [Map My Ride](https://www.mapmyride.com)
 * [Stravistix](https://thomaschampagne.github.io/stravistix/)
 
-### Misc
+## Misc
 * [Silent Sports Project](http://rockfordparkdistrict.org/silentsports)
 
 For any feedback, suggestions or to add more to the list please send an email to me@ryansatterlee.com
