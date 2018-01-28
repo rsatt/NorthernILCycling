@@ -87,7 +87,7 @@
 * [NorthPointe Wellness](https://www.northpointewellness.org/services/special-events/)
 * [OrthoIllinois - Bike Fitting](http://www.orthoillinois.com/service/bike-right-cycling-clinic/)
 * [MSN Pro Coaching](http://msnprocoaching.com/)
-* [Noth Central Cyclery](https://www.northcentralcyclery.com/): [Events](https://www.northcentralcyclery.com/articles/rides-and-events-pg37.htm)
+* [North Central Cyclery](https://www.northcentralcyclery.com/): [Events](https://www.northcentralcyclery.com/articles/rides-and-events-pg37.htm)
 
 ## Other Useful Stuff
 * [Strava](https://www.Strava.com)
