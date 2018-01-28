@@ -1,3 +1,6 @@
+title: Northern Illinois Cycling
+description: An index of every event, group, ride, race, etc. that could be useful in the stateline area. Feel free to [submit](me@ryansatterlee.com) any thing that needs to be added, updated, or removed. 
+
 # 2018
 
 ## Groups
