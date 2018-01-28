@@ -28,7 +28,7 @@
     * [La Crosse Omnium](https://www.lacrosseomnium.com/)
 
 * Search Sites
-    * [Bike Reg Midwest](https://www.bikereg.com/events/Midwest/
+    * [Bike Reg Midwest](https://www.bikereg.com/events/Midwest/)
     * [USA Cycling](https://www.usacycling.org/events)
     * [Active - Cycling](https://www.active.com/cycling)
     * [Mike Bentley - Midwest](http://www.mikebentley.com/bike/mwrides.htm)
