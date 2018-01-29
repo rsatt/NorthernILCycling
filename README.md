@@ -15,6 +15,7 @@
 * Rides/Social
   * [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
   * [Melt Fest - Rockford](http://meltfest.com/bike-ride/)
+  * [Blackhawk Country Roads Invitational Ride - Rockford: 5/26,5/27](http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145222)
   * [River District 12 - Rockford: 6/23](http://www.riverdistrict12.com/)
   * [Tour De North End - Rockford](http://tourdenorthend.com/)
   * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
@@ -32,6 +33,7 @@
 
 * Search Sites
     * [Bike Reg Midwest](https://www.bikereg.com/events/Midwest/)
+    * [AM Bike Race](http://www.ambikerace.com/2018/calendar_18.htm)
     * [USA Cycling](https://www.usacycling.org/events)
     * [Active - Cycling](https://www.active.com/cycling)
     * [Mike Bentley - Midwest](http://www.mikebentley.com/bike/mwrides.htm)
@@ -57,6 +59,7 @@
 * [Mid America Time Trial Series by RRM - Cherry Valley: 4/22](http://www.midamericatimetrialseries.com//Cherry_Valley_Flyer_2018%20(1).pdf)
 * [Screw City Duathlon by RRM - Loves Park: 5/6](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
 * [Chicago Triathlon - Chicago: 8/25-26](http://www.chicagotriathlon.com/)
+* [Mid America Time Trial Series by RRM - Cherry Valley: 8/26](http://www.midamericatimetrialseries.com//Cherry_Valley_Flyer_2018%20(1).pdf)
 * [Ironman Wisconsin - Madison: 9/9](http://www.ironman.com/triathlon/events/americas/ironman/wisconsin.aspx)
 * [Bigfoot Triathlon - Lake Geneva](https://www.bigfoottriathlon.com/triathlon)
 * Do the Kish by RRM
@@ -68,9 +71,10 @@
 * [Rockford Downtown Alleycat](https://www.flybynightrockford.com/)
 * [Fyxation](http://www.fyxationopen.com/)
 
-## Touring/Bikepacking
+## Touring/Bikepacking/Adventure
 * [Ragbrai](https://ragbrai.com/)
 * [Bike Wisconsin](http://www.bikewisconsin.com/index.html)
+* [Adventure Cycling](https://www.adventurecycling.org/)
 * Routes
   * [Tour de Chequamegon, WI](http://www.bikepacking.com/routes/tour-de-chequamegon-wisconsin/)
 
