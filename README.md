@@ -37,7 +37,8 @@
     * [Mike Bentley - Midwest](http://www.mikebentley.com/bike/mwrides.htm)
     
 ## Moutain 
-*  [Wisconsin off road series](http://worscup.com/)
+* [Wisconsin off road series](http://worscup.com/)
+* [Silent Sports Project](http://rockfordparkdistrict.org/silentsports)
 * Search Sites
     * [Single Tracks](https://www.singletracks.com/mountain-bike/events/events.php)
     * [Bike Reg MTB Midwest](https://www.bikereg.com/events/MTB-Races/Midwest/)
@@ -99,8 +100,5 @@
 * [Run Signup](https://www.runsignup.com/Races)
 * [Map My Ride](https://www.mapmyride.com)
 * [Stravistix](https://thomaschampagne.github.io/stravistix/)
-
-## Misc
-* [Silent Sports Project](http://rockfordparkdistrict.org/silentsports)
 
 For any feedback, suggestions or to add more to the list please send an email to me@ryansatterlee.com
