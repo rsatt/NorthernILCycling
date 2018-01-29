@@ -58,6 +58,7 @@
     * [Bike Reg MTB Midwest](https://www.bikereg.com/events/MTB-Races/Midwest/)
 
 ## Gravel
+* [Pastry-Brest-Pastry - Aurora: 3/25](http://pedalandspoke.com/event/pastry-brest-pastry-2018/)
 * [Ten Thousand - Freeport: 6/27](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/5/27/ten-thousand)
 * Dust at Dusk (9/?)
 * Search Sites
@@ -83,7 +84,7 @@
 * [Rockford Downtown Alleycat](https://www.flybynightrockford.com/)
 * [Fyxation](http://www.fyxationopen.com/)
 
-## Touring/Bikepacking/Adventure
+## Touring/Bikepacking
 * [Ragbrai](https://ragbrai.com/)
 * [Bike Wisconsin](http://www.bikewisconsin.com/index.html)
 * [Adventure Cycling](https://www.adventurecycling.org/)
