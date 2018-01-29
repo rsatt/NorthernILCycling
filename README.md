@@ -11,9 +11,9 @@
 # 2018
 
 ## Groups
-* [Team Fur Bandit](http://teamfurbandit.org/) : [Strava](https://www.strava.com/clubs/teamfurbandit)
-* [Rock River Multisport](http://rockrivermultisport.com/): [Strava](https://www.strava.com/clubs/rock-river-multisport), Rides
 * [Blackhawk Bicycle Club](http://blackhawkbicycleclub.org/): Strava, [Rides](http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145223)
+* [Rock River Multisport](http://rockrivermultisport.com/): [Strava](https://www.strava.com/clubs/rock-river-multisport), Rides
+* [Team Fur Bandit](http://teamfurbandit.org/) : [Strava](https://www.strava.com/clubs/teamfurbandit)
 * Stateline Velo: [Strava](https://www.strava.com/clubs/statelinevelo), [Rides](https://docs.google.com/spreadsheets/d/1f2_TuvNMMXEgF7hJOttXkxBkI6hE3lqPoBQy-rwfwrg/edit#gid=0)
 * [Rockford Area Moutain Biking Alliance (RAMBA)](http://facebook.com/rockfordareamountainbikingalliance.com)
 * [Stateline Spinners](http://www.statelinespinners.com/): [Strava](https://www.strava.com/clubs/statelinespinners)
