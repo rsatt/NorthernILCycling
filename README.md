@@ -52,9 +52,8 @@
 * Rockford Spring Cyclocross Series by RRM
 
 ## Triathlon/Duathlon/Time Trial
-* [Screw City Duathlon by RRM](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
-* [Mid America Time Trial Series](http://www.midamericatimetrialseries.com/)
-    * Cherry Valley Time Trial by RRM
+* [Mid America Time Trial Series by RRM- Cherry Valley: 4/22](http://www.midamericatimetrialseries.com//Cherry_Valley_Flyer_2018%20(1).pdf)
+* [Screw City Duathlon by RRM - Loves Park: 5/6](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
 * Do the Kish by RRM?
 * [Chicago Triathlon - Chicago: 8/25-26](http://www.chicagotriathlon.com/)
 * [Ironman Wisconsin - Madison: 9/9](http://www.ironman.com/triathlon/events/americas/ironman/wisconsin.aspx)
