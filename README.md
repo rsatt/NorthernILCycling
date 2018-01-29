@@ -16,7 +16,7 @@
   * [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
   * [Melt Fest - Rockford](http://meltfest.com/bike-ride/)
   * [River District 12 - Rockford: 6/23](http://www.riverdistrict12.com/)
-  * [Race the Lake - Fond du Lac,WI: 8/26](http://www.dutrirun.com/rtl)
+  * [Race the Lake - Fond du Lac, WI: 8/26](http://www.dutrirun.com/rtl)
   * [Tour De North End - Rockford](http://tourdenorthend.com/)
   * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
 * Gran Fondo/Randonneuring
