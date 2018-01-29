@@ -31,6 +31,7 @@
   * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
 * Gran Fondo/Randonneuring
    * [Tour For Cancer - Freeport](http://www.tourforcancer.org/)   
+   * [Udder Century - McHenry: 6/3](https://www.active.com/crystal-lake-il/cycling/udder-century-36th-annual-2018)
    * [Horribly Hilly Hundreds - Blue Mounds, WI: 6/15](http://www.horriblyhilly.com/)
    * [Ride Across Wisconsin - South WI, 8/11](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
    * [Race the Lake - Fond du Lac, WI: 8/26](http://www.dutrirun.com/rtl)
