@@ -33,6 +33,7 @@
   * [Swedish Days Ride - Hampshire: 6/24](http://www.fvbsc.org/content.aspx?page_id=22&club_id=401197&module_id=163510)
   * [Z-Tour - Princeton: 7/21](http://www.z-tour.org)
   * [Tour De North End - Rockford](http://tourdenorthend.com/)
+  * [Lemon Duro by TFB](https://www.facebook.com/events/148599699043907/)
   * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
 * Gran Fondo/Randonneuring
    * [Tour For Cancer - Freeport](http://www.tourforcancer.org/)   
