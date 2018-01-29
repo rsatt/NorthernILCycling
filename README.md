@@ -26,6 +26,7 @@
   * [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
   * [Melt Fest - Rockford](http://meltfest.com/bike-ride/)
   * [Blackhawk Country Roads Invitational Ride - Rockford: 5/26-27](http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145222)
+  * [Fight For Air! - Crystal Lake, IL, Lake Geneva, WI: 6/8-10](http://action.lung.org/site/TR?fr_id=16329&pg=entry)
   * [Ramble Ride - Wilmot, WI: 6/10](http://bikebclc.com/ramble-ride/)
   * [River District 12 - Rockford: 6/23](http://www.riverdistrict12.com/)
   * [Bike MS: Tour De Farms - Geneva: 6/23-24](http://main.nationalmssociety.org/site/TR/Bike/ILDBikeEvents?pg=entry&fr_id=29358)
