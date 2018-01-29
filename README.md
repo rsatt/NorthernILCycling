@@ -92,9 +92,10 @@
 * Routes
   * [Tour de Chequamegon, WI](http://www.bikepacking.com/routes/tour-de-chequamegon-wisconsin/)
 
-## Routes
+## Routes/Trails
 * [Area Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
 * [Rock Cut](http://www.rockcutpark.com/park-guidelines/park-maps/)
+* [Espenscheid](http://winnebagoforest.org/wp-content/uploads/2009/04/Espenscheid-Preserve-Map.pdf)
 * [Gran Illinois Trail Map](http://janeaddamstrail.com/the-grand-illinois-trail-map)
 * [Pecatonica Prairie Trail](http://pecatonicaprairietrail.com/index.php?page=trail-maps)
 
