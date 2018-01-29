@@ -71,6 +71,7 @@
 ## Randonneuring
 * [Ride Across Wisconsin](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
 * [Great Lakes Rando](http://www.greatlakesrando.org/our-calendar/current-events)
+* [Horribly Hilly Hundreds](http://www.horriblyhilly.com/)
 
 ## Routes
 * [Area Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
