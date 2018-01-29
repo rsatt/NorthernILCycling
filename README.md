@@ -108,6 +108,9 @@
 * [OrthoIllinois - Bike Fitting](http://www.orthoillinois.com/service/bike-right-cycling-clinic/)
 * [MSN Pro Coaching](http://msnprocoaching.com/)
 * [North Central Cyclery](https://www.northcentralcyclery.com/): [Events](https://www.northcentralcyclery.com/articles/rides-and-events-pg37.htm)
+* [Peak Fitness](http://www.peakfitnessusa.com/)
+* [Crossfit Vis One](http://crossfitvisone.com/)
+* [YMCA Rock River](http://www.rockriverymca.org/)
 
 ## Other Useful Stuff
 * [Strava](https://www.Strava.com)
