@@ -12,15 +12,18 @@
 * [Ride Illinois](https://www.rideillinois.org): [Strava](https://www.strava.com/clubs/rideillinois)
 
 ## Road/General
-* Rides
+* Rides/Social
   * [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
-  * [River District 12 - Rockford](http://www.riverdistrict12.com/)
+  * [River District 12 - Rockford: 6/23](http://www.riverdistrict12.com/)
   * [Race the Lake - Fond du Lac,WI: 8/26](http://www.dutrirun.com/rtl)
   * [Tour De North End - Rockford](http://tourdenorthend.com/)
   * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
-* Gran Fondo
-   * [Tour For Cancer - Freeport](http://www.tourforcancer.org/)
+* Gran Fondo/Randonneuring
+   * [Tour For Cancer - Freeport](http://www.tourforcancer.org/)   
+   * [Horribly Hilly Hundreds - Blue Mounds, WI: 6/15](http://www.horriblyhilly.com/)
+   * [Ride Across Wisconsin - South WI, 8/11](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
    * [Wisconsin Gran Fondo](https://www.wisconsingranfondo.com)
+   * [Great Lakes Rando](http://www.greatlakesrando.org/our-calendar/current-events)   
 * Criterium, Omnium
     * [Spring Super Criterium - South Beloit](http://burnhamracing.org/)
     * [Intelligentsia Cup](http://intelligentsiacup.com/)
@@ -67,11 +70,6 @@
 * [Bike Wisconsin](http://www.bikewisconsin.com/index.html)
 * Routes
   * [Tour de Chequamegon, WI](http://www.bikepacking.com/routes/tour-de-chequamegon-wisconsin/)
-
-## Randonneuring
-* [Ride Across Wisconsin](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
-* [Great Lakes Rando](http://www.greatlakesrando.org/our-calendar/current-events)
-* [Horribly Hilly Hundreds - Blue Mounds, WI: 6/15](http://www.horriblyhilly.com/)
 
 ## Routes
 * [Area Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
