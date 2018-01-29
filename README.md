@@ -42,7 +42,7 @@
     * [Bike Reg MTB Midwest](https://www.bikereg.com/events/MTB-Races/Midwest/)
 
 ## Gravel
-* [Ten Thousand, Freeport,IL - 6/27](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/5/27/ten-thousand)
+* [Ten Thousand - Freeport: 6/27](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/5/27/ten-thousand)
 * Dust at Dusk (9/?)
 * Search Sites
     * [Riding Gravel](http://ridinggravel.com/events/)
