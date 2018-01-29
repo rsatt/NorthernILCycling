@@ -15,7 +15,7 @@
 * Rides/Social
   * [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
   * [Melt Fest - Rockford](http://meltfest.com/bike-ride/)
-  * [Blackhawk Country Roads Invitational Ride - Rockford: 5/26,5/27](http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145222)
+  * [Blackhawk Country Roads Invitational Ride - Rockford: 5/26-27](http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145222)
   * [River District 12 - Rockford: 6/23](http://www.riverdistrict12.com/)
   * [Tour De North End - Rockford](http://tourdenorthend.com/)
   * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
