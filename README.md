@@ -56,8 +56,10 @@
 * [Mid America Time Trial Series](http://www.midamericatimetrialseries.com/)
     * Cherry Valley Time Trial by RRM
 * Do the Kish by RRM?
+* [Chicago Triathlon - Chicago: 8/25-26](http://www.chicagotriathlon.com/)
+* [Ironman Wisconsin - Madison: 9/9](http://www.ironman.com/triathlon/events/americas/ironman/wisconsin.aspx)
+* [Bigfoot Triathlon - Lake Geneva](https://www.bigfoottriathlon.com/triathlon)
 * [DuTriRun](http://www.dutrirun.com)
-* [Ironman Wisconsin](http://www.ironman.com/triathlon/events/americas/ironman/wisconsin.aspx)
 * Search Sites    
     * [TriFind](https://www.trifind.com/il.html)
     
