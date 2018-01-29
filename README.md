@@ -15,7 +15,7 @@
 * Rides
   * [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
   * [River District 12 - Rockford](http://www.riverdistrict12.com/)
-  * [Race the Lake - Fond du Lac,WI](http://www.dutrirun.com/rtl)
+  * [Race the Lake - Fond du Lac,WI: 8/26](http://www.dutrirun.com/rtl)
   * [Tour De North End - Rockford](http://tourdenorthend.com/)
   * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
 * Gran Fondo
@@ -71,7 +71,7 @@
 ## Randonneuring
 * [Ride Across Wisconsin](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
 * [Great Lakes Rando](http://www.greatlakesrando.org/our-calendar/current-events)
-* [Horribly Hilly Hundreds](http://www.horriblyhilly.com/)
+* [Horribly Hilly Hundreds - Blue Mounds, WI: 6/15](http://www.horriblyhilly.com/)
 
 ## Routes
 * [Area Heat Map](https://labs.strava.com/heatmap/#9.00/-89.32587/42.41616/hot/all)
