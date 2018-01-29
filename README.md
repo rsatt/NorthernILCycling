@@ -19,10 +19,6 @@
 * [Stateline Spinners](http://www.statelinespinners.com/): [Strava](https://www.strava.com/clubs/statelinespinners)
 * [Fly By Night](https://www.flybynightrockford.com/)
 * [I Bike Rockford](http://ibikerockford.com/)
-<!--
-* [Fox Valley Bicycle & Ski Club](www.fvbsc.org/)
-* [McHenry County Bicycle Club](http://www.mchenrybicycleclub.org/)
--->
 * [Ride Illinois](https://www.rideillinois.org): [Strava](https://www.strava.com/clubs/rideillinois)
 
 ## Road/General
@@ -126,3 +122,4 @@
 * [Stravistix](https://thomaschampagne.github.io/stravistix/)
 
 For any feedback, suggestions or to add more to the list please send an email to me@ryansatterlee.com
+<!--* [Fox Valley Bicycle & Ski Club](www.fvbsc.org/)* [McHenry County Bicycle Club](http://www.mchenrybicycleclub.org/)-->
