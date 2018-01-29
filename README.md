@@ -26,8 +26,11 @@
   * [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
   * [Melt Fest - Rockford](http://meltfest.com/bike-ride/)
   * [Blackhawk Country Roads Invitational Ride - Rockford: 5/26-27](http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145222)
+  * [Ramble Ride - Wilmot , WI:6/10](http://bikebclc.com/ramble-ride/)
   * [River District 12 - Rockford: 6/23](http://www.riverdistrict12.com/)
+  * [Bike MS: Tour De Farms - Geneva: 6/23-24](http://main.nationalmssociety.org/site/TR/Bike/ILDBikeEvents?pg=entry&fr_id=29358)
   * [Swedish Days Ride - Hampshire: 6/24](http://www.fvbsc.org/content.aspx?page_id=22&club_id=401197&module_id=163510)
+  * [Z-Tour - Princeton: 7/21](http://www.z-tour.org)
   * [Tour De North End - Rockford](http://tourdenorthend.com/)
   * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
 * Gran Fondo/Randonneuring
