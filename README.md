@@ -24,7 +24,7 @@
    * [Ride Across Wisconsin - South WI, 8/11](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
    * [Wisconsin Gran Fondo](https://www.wisconsingranfondo.com)
    * [Great Lakes Rando](http://www.greatlakesrando.org/our-calendar/current-events)   
-* Criterium, Omnium
+* Criterium/Omnium
     * [Spring Super Criterium - South Beloit](http://burnhamracing.org/)
     * [Intelligentsia Cup](http://intelligentsiacup.com/)
     * [La Crosse Omnium](https://www.lacrosseomnium.com/)
@@ -51,7 +51,7 @@
 * [Chi Cross Cup](http://chicrosscup.com/)
 * Rockford Spring Cyclocross Series by RRM
 
-## Triathlon/Duathlon, Time Trial
+## Triathlon/Duathlon/Time Trial
 * [Screw City Duathlon by RRM](https://runsignup.com/Race/IL/LovesPark/ScrewCityDuathlon)
 * [Mid America Time Trial Series](http://www.midamericatimetrialseries.com/)
     * Cherry Valley Time Trial by RRM
