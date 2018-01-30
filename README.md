@@ -15,7 +15,7 @@
 * [Rock River Multisport](http://rockrivermultisport.com/): [Strava](https://www.strava.com/clubs/rock-river-multisport), Rides
 * [Team Fur Bandit](http://teamfurbandit.org/) : [Strava](https://www.strava.com/clubs/teamfurbandit)
 * Stateline Velo: [Strava](https://www.strava.com/clubs/statelinevelo), [Rides](https://docs.google.com/spreadsheets/d/1f2_TuvNMMXEgF7hJOttXkxBkI6hE3lqPoBQy-rwfwrg/edit#gid=0)
-* [Rockford Area Moutain Biking Alliance (RAMBA)](http://facebook.com/rockfordareamountainbikingalliance.com)
+* [Rockford Area Moutain Biking Alliance (RAMBA)](https://www.facebook.com/RockfordAreaMountainBikers)
 * [Stateline Spinners](http://www.statelinespinners.com/): [Strava](https://www.strava.com/clubs/statelinespinners)
 * [Fly By Night](https://www.flybynightrockford.com/)
 * [I Bike Rockford](http://ibikerockford.com/)
