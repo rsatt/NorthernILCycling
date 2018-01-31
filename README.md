@@ -63,7 +63,7 @@
     * [Bike Reg MTB Midwest](https://www.bikereg.com/events/MTB-Races/Midwest/)
 
 ## Gravel
-* [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
+* [Frostbite 40 - Freeport: 2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
 * [Pastry-Brest-Pastry - Aurora: 3/25](http://pedalandspoke.com/event/pastry-brest-pastry-2018/)
 * [Rough Road - Morris: 4/7](https://www.roughroad100.com/)
 * [Grumpy Grind - Milledgeville: 4/22](https://www.grumpygrind.com/)
