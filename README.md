@@ -23,7 +23,6 @@
 
 ## Road/General
 * Rides/Social
-  * [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
   * [Melt Fest - Rockford](http://meltfest.com/bike-ride/)
   * [Blackhawk Country Roads Invitational Ride - Rockford: 5/26-27](http://blackhawkbicycleclub.org/content.aspx?page_id=22&club_id=320178&module_id=145222)
   * [Fight For Air! - Crystal Lake, IL, Lake Geneva, WI: 6/8-10](http://action.lung.org/site/TR?fr_id=16329&pg=entry)
@@ -35,11 +34,11 @@
   * [Tour De North End - Rockford](http://tourdenorthend.com/)
   * [Lemon Duro by TFB](https://www.facebook.com/events/148599699043907/)
   * [Tour De Frost - Rockford](http://teamfurbandit.org/seventh-annual-tour-de-frost/)
-* Gran Fondo/Randonneuring
-   * [Tour For Cancer - Freeport](http://www.tourforcancer.org/)   
+* Gran Fondo/Randonneuring   
    * [Udder Century - McHenry: 6/3](https://www.active.com/crystal-lake-il/cycling/udder-century-36th-annual-2018)
    * [Horribly Hilly Hundreds - Blue Mounds, WI: 6/15](http://www.horriblyhilly.com/)
    * [Gran Fondue Balloon & Blues Festival - Monroe: 6/15](http://monroeballoonrally.com/the-gran-fondue-cycling-event/)
+   * [Tour For Cancer - Freeport: 6/30](http://www.tourforcancer.org/)   
    * [Ride Across Wisconsin - South WI: 8/11](http://wisconsinbikefed.org/rides/ride-across-wisconsin/)
    * [Race the Lake - Fond du Lac, WI: 8/26](http://www.dutrirun.com/rtl)
    * [Wisconsin Gran Fondo](https://www.wisconsingranfondo.com)
@@ -64,6 +63,7 @@
     * [Bike Reg MTB Midwest](https://www.bikereg.com/events/MTB-Races/Midwest/)
 
 ## Gravel
+* [Frostbite 40 - Freeport:2/25](http://www.freeportbicycles.com/freeport-bicycle-company-events/2018/2/25/frostbite-40)
 * [Pastry-Brest-Pastry - Aurora: 3/25](http://pedalandspoke.com/event/pastry-brest-pastry-2018/)
 * [Rough Road - Morris: 4/7](https://www.roughroad100.com/)
 * [Grumpy Grind - Milledgeville: 4/22](https://www.grumpygrind.com/)
